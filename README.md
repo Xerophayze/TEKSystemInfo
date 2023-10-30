@@ -7,3 +7,5 @@ Unveil the intricacies of your PC with TEK System Info, an advanced PowerShell s
 💽 SMART Test: Assess the health of your attached hard drives with a full SMART test, ensuring longevity and performance.
 💾 Export Options: With just a click, archive all the vital information into different file formats, offering flexibility in how you store and share data.
 With TEK System Info, arm yourself with in-depth knowledge about every corner of your PC!
+
+Certain aspects of this Powershell script rely on the smartmontools package
